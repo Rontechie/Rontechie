@@ -20,3 +20,5 @@ none for now...
 ![Rust](https://img.shields.io/badge/Rust-6BD7E5?style=for-the-badge&logo=rust&logoColor=121212)
 ![Python](https://img.shields.io/badge/Python-6BD7E5?style=for-the-badge&logo=python&logoColor=121212)
 ![Kotlin](https://img.shields.io/badge/Kotlin-6BD7E5?style=for-the-badge&logo=kotlin&logoColor=121212)
+![Hyprland](https://img.shields.io/badge/Hyprland-6BD7E5?style=for-the-badge&logo=hyprland&logoColor=121212)
+![Quickshell](https://img.shields.io/badge/Quickshell-6BD7E5?style=for-the-badge&logoColor=121212)
